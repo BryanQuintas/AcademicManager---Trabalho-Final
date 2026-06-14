@@ -7,26 +7,12 @@
 
 ---
 
-# 🏷️ Nome do Projeto 👨‍💻
+# ✍ AcademicManager 🏫
 
 > [!NOTE]
-> Breve descrição do projeto. **Foque no principal valor/benefício.**  
-> Crie uma **logo** para o projeto que represente a aplicação em questão.
+> O AcademicManager é um sistema de gestão acadêmica desenvolvido para centralizar e otimizar os principais processos de uma instituição de ensino superior. A plataforma permite que alunos, professores, coordenadores e equipes administrativas realizem suas atividades de forma integrada, incluindo matrículas, acompanhamento de disciplinas, lançamento de notas, controle de frequência, emissão de documentos e gerenciamento acadêmico.
 
-<table>
-  <tr>
-    <td width="800px">
-      <div align="justify">
-        Este <b>README.md</b> apresenta um template organizado, ideal para servir como referência acadêmica e profissional em projetos de desenvolvimento, desde trabalhos da faculdade até projetos desenvolvidos para etapas técnicas de processos seletivos. Ele reúne as <i>seções essenciais</i> recomendadas pelo <a href="https://github.com/joaopauloaramuni">Prof. Dr. João Paulo Aramuni</a>, permitindo <i>organização clara</i>, <i>documentação eficiente</i> e <i>padronização</i> entre diferentes trabalhos. O objetivo deste esqueleto é <b>facilitar a construção de projetos bem documentados</b>, oferecendo um <i>guia completo</i> que inclui <b>boas práticas</b>, instruções de execução, tecnologias utilizadas, arquitetura, estruturas de pastas, testes, links úteis e orientações para colaboração. Esse template ajuda estudantes a desenvolverem <b>documentação de qualidade profissional</b> desde os primeiros períodos, promovendo <i>clareza</i>, <i>reprodutibilidade</i> e <i>padronização</i> nos projetos.
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://joaopauloaramuni.github.io/image/logo_ES_vertical.png" alt="Logo do Projeto" width="120px"/>
-      </div>
-    </td>
-  </tr> 
-</table>
+O principal benefício do sistema é proporcionar maior organização, eficiência e transparência nos processos acadêmicos, reduzindo tarefas manuais e facilitando o acesso às informações por todos os envolvidos.**  
 
 ---
 
