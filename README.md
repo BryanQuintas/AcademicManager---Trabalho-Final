@@ -14,6 +14,8 @@
 
 O principal benefício do sistema é proporcionar maior organização, eficiência e transparência nos processos acadêmicos, reduzindo tarefas manuais e facilitando o acesso às informações por todos os envolvidos.**  
 
+<img src="img/academicmanager-logo.png" alt="Logo do AcademicManager" width="600">
+
 ---
 
 ## 🚧 Status do Projeto
